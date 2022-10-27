@@ -4,7 +4,9 @@
     {
         public static void Main(string[]args)
         {
-            Console.WriteLine("Welcome To Snake And Ladder Problem");
+            int Position = 0;
+            Console.WriteLine("Player is at Starting Position: " + Position);
+
         }
     }
 }
